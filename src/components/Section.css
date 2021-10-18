@@ -1,0 +1,11 @@
+.task__section {
+  background-color: whitesmoke;
+  border: 1px solid;
+  border-color: black;
+  margin: 10px 10px 0px 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

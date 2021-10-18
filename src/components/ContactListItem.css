@@ -1,0 +1,14 @@
+.contact__list-item {
+  list-style: none;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.contact__list-delete-button {
+  width: 80px;
+  border-style: none;
+  border-radius: 5px;
+  margin-left: 30px;
+  color: white;
+  background: grey;
+}
